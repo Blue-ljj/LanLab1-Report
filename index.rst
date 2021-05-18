@@ -29,12 +29,14 @@ EnglishPal is based on python. In this experiment, we do dependency analysis and
 Results
 ======================================
 
-- The module-level dependency graph of EnglishPal
-  - Code: [EnglishPalDependency(Graphviz).txt](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/EnglishPalDependency(Graphviz).txt)
-  - PDF: [snakefood.pdf](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/snakefood.pdf)
+* The module-level dependency graph of EnglishPal
 
-- The class/function-level dependency graph of EnglishPal
-  - Code: [mermaid.txt](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/mermaid.txt)
+  * Code: [EnglishPalDependency(Graphviz).txt](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/EnglishPalDependency(Graphviz).txt)
+  * PDF: [snakefood.pdf](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/snakefood.pdf)
+
+* The class/function-level dependency graph of EnglishPal
+
+  * Code: [mermaid.txt](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/mermaid.txt)
 
 Pros&Cons
 ======================================
