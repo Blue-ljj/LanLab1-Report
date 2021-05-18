@@ -30,11 +30,11 @@ Results
 ======================================
 
 - The module-level dependency graph of EnglishPal
-  - Code: [EnglishPalDependency(Graphviz).txt](https://www.kdocs.cn/l/cgn6UdUwcDss)
-  - PDF: [snakefood.pdf](https://www.kdocs.cn/l/cjtp9Zu5mOUw)
+  - Code: [EnglishPalDependency(Graphviz).txt](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/EnglishPalDependency(Graphviz).txt)
+  - PDF: [snakefood.pdf](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/snakefood.pdf)
 
 - The class/function-level dependency graph of EnglishPal
-  - Code: [mermaid.txt](https://www.kdocs.cn/l/crHT7UiAXuMm)
+  - Code: [mermaid.txt](https://github.com/Blue-ljj/LanLab1-Report-Docs/blob/master/mermaid.txt)
 
 Pros&Cons
 ======================================
